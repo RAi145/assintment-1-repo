@@ -14,9 +14,7 @@
   padding: 40px 0;}
 
   .header {
-  background-color:#f0f2ff;; 
   padding: 20px 0;
-
 }
 
 
@@ -34,7 +32,7 @@
   color: #4E47FF;
 }
 .btnforsignin{
-     background-color: #5d5fee;
+  background-color: #5d5fee;
   color: white;
   padding: 10px 20px;
   text-decoration: none;
@@ -44,7 +42,7 @@
 .main{
   background-color: #f0f2ff;
   text-align: center;
-  padding: 80px 0;
+  padding: 50px 0;
 }
 
 
@@ -90,9 +88,7 @@
    margin: 100px; 
    padding: 50px 80px; 
   text-align: center; 
-  /* height: 1258px;
-  width: 141px; */
-  /* opacity: 10; */
+ 
 }
 .container-stats-grid{
   display: flex;
@@ -100,10 +96,7 @@
   text-align: center;
   flex-wrap: wrap;
 }
-/* 
-.stats-grid div {
-  margin: 10px;
-} */
+
 
 .stats h3 {
   font-size: 50px;
@@ -264,6 +257,19 @@ margin-top: 30px;
   color: #333;
   font-size: 14px;
   
+}
+.btnforsignin:hover{
+  color: red;
+  background-color: yellow;
+}
+.btn:hover{
+   color: red;
+  background-color: yellow;
+}
+.btn-2:hover{
+   color: red;
+  background-color: yellow;
+
 }
 /* DONE */
 
