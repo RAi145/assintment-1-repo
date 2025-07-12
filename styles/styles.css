@@ -2,7 +2,7 @@
 
 
 .body{
-  font-family: 'Arial', sans-serif;
+
   background-color:#f4f7ff;
   color: #111;
 }
@@ -27,11 +27,13 @@
 
 
 .logo {
+   font-family: "Raleway", sans-serif;
   font-weight: bold;
   font-size: 24px;
   color: #4E47FF;
 }
 .btnforsignin{
+   font-family: "Raleway", sans-serif;
   background-color: #5d5fee;
   color: white;
   padding: 10px 20px;
@@ -47,11 +49,13 @@
 
 
 .main h1 {
+   font-family: "Raleway", sans-serif;
   font-size: 36px;
   margin-bottom: 20px;
 }
 
 .btn {
+   font-family: "Raleway", sans-serif;
   background-color: #5d5fee;
   color: white;
   padding: 10px 20px;
@@ -64,6 +68,7 @@
   padding: 100px;
 }
 .container-preview-grade{
+   font-family: "Raleway", sans-serif;
    display: flex;
   align-items: center;
   gap: 40px;
@@ -83,6 +88,7 @@
 
 
 .stats{
+   font-family: "Raleway", sans-serif;
   background-color: #e6e8ff;
   border-radius: 10px;
    margin: 100px; 
@@ -91,6 +97,7 @@
  
 }
 .container-stats-grid{
+   
   display: flex;
   justify-content: space-between;
   text-align: center;
@@ -99,6 +106,7 @@
 
 
 .stats h3 {
+ 
   font-size: 50px;
   color: #1D15EE;
 }
@@ -111,11 +119,13 @@ h2{
 }
 
 .stars-section{
+   font-family: "Raleway", sans-serif;
   text-align: center;
   padding: 60px 20px;
   background-color:  #f4f7ff ;
 }
 .stars-grid{
+   font-family: "Raleway", sans-serif;
 display: flex;
 justify-content: center;
 flex-wrap: wrap;
@@ -158,6 +168,7 @@ margin-top: 30px;
 }
 
 .four{
+   font-family: "Raleway", sans-serif;
   background-color: #ffffff;
   text-align: center;
   padding: 60px 20px;
@@ -197,6 +208,7 @@ margin-top: 30px;
   padding: 40px 0;
 }
 .contact{
+   font-family: "Raleway", sans-serif;
   background-color: #f4f7ff;
   padding: 80px 20px;
 
@@ -228,6 +240,7 @@ margin-top: 30px;
 }
 
 .footer {
+   font-family: "Raleway", sans-serif;
   background-color: #fff;
   padding: 60px 20px;
   text-align: center;
